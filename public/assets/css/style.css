@@ -1456,7 +1456,8 @@ button.header-search-btn {
 }
 .schools-carousel-item-title {
     padding: 10px 15px 6px;
-    margin: 0 15px;
+    width: 100%;
+    text-align: center;
     color: #fff;
     box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.24),0px 4px 6px 0px rgba(0, 0, 0, 0.16);
     border: 1px solid rgba(255, 255, 255, 0.55);
